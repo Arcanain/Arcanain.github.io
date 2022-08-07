@@ -115,6 +115,24 @@ body {
     text-align: center;
 }
 
+.usage-wrapper-projects {
+    height: 100px;
+    padding-bottom: 80px;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #f7f7f7;
+    text-align: center;
+}
+
+.usage-wrapper-supporting-company {
+    height: 600px;
+    padding-bottom: 80px;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #f7f7f7;
+    text-align: center;
+}
+
 .text-contents {
     width: 80%;
     display: inline-block;
