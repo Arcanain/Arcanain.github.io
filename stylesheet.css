@@ -89,7 +89,8 @@ body {
 }
 
 .usage-wrapper {
-    height: 380px;
+    /*height: 380px;*/
+    height: 190px;
     padding-bottom: 80px;
     padding-left: 5%;
     padding-right: 5%;
