@@ -102,8 +102,9 @@ body {
 .text-contents {
     width: 80%;
     display: inline-block;
-    margin-top: 15px;
-    font-size: 13px;
+    /*margin-top: 15px;*/
+    margin-top: 5px;
+    font-size: 20px;
     color: #b3aeb5;
 }
 
