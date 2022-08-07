@@ -91,7 +91,8 @@ body {
 .usage-wrapper {
     /*height: 380px;*/
     height: 190px;
-    padding-bottom: 80px;
+    /*padding-bottom: 80px;*/
+    padding-bottom: 0px;
     padding-left: 5%;
     padding-right: 5%;
     background-color: #f7f7f7;
