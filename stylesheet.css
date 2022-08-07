@@ -89,9 +89,7 @@ body {
 }
 
 .usage-wrapper {
-    /*height: 380px;*/
     height: 190px;
-    /*padding-bottom: 80px;*/
     padding-bottom: 80px;
     padding-left: 5%;
     padding-right: 5%;
@@ -102,7 +100,6 @@ body {
 .text-contents {
     width: 80%;
     display: inline-block;
-    /*margin-top: 15px;*/
     margin-top: 15px;
     font-size: 13px;
     color: #b3aeb5;
