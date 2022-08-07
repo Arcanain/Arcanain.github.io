@@ -230,3 +230,35 @@ input[type="range"]::-moz-focus-outer {
 input[type="range"]:active::-webkit-slider-thumb {
     box-shadow: 0px 5px 10px -2px rgba(0, 0, 0, 0.3);
 }
+
+.Table {
+  width: 100%;
+  border: solid 2px #333;
+  border-collapse: collapse;
+  font-size: 16px;
+}
+@media screen and (max-width: 768px) {
+  .Table {
+    font-size: 12px;
+  }
+}
+.Table-Head {
+  background: #ccc;
+}
+.Table-Head-Row-Cell {
+  border: solid 2px #333;
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+.Table-Body {
+  background: #fff;
+}
+.Table-Body-Row-Cell {
+  border: solid 2px #333;
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
